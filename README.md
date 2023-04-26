@@ -13,3 +13,5 @@
 <a href=https://github.com/tpiekarski/lkm-sandbox>LKM sandbox</a>
 
 <a href=https://irix7.com/techpubs/860-0239-001.pdf>Linux Kernel Programming Guide - Ori Pomerantz - 1999</a>
+
+<a href=https://linux-kernel-labs.github.io/refs/heads/master/index.html>Linux Kernel Teaching</a>
