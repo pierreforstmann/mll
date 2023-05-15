@@ -37,3 +37,9 @@
 
 <a href=https://www.gnu.org/software/libc/manual/html_node/Replacing-malloc.html> Replacing malloc
 
+<a href=https://docs.gtk.org/glib/>GLib</a>
+
+<a href=https://apr.apache.org/>Apache Portable Runtime</a>
+
+<a href=https://www.lysator.liu.se/c/>Programming In C (Lysator Archive)</a>
+
